@@ -1,3 +1,4 @@
 ### Java game - rearrange chess figures
 
-Java awt project builded by Ant
+Java awt Game.
+Built with Ant
